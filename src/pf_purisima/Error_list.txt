@@ -1,0 +1,6 @@
+- Crear clase de configuracion
+- Crear clases manejadoras de MD
+- Crear clase registro
+- Crear GUI
+- Crear reportes en reporteador
+- Crear clase de reporteador
